@@ -1,7 +1,7 @@
 # Ai-Driven-IDS-for-Satellite-Telemetry
 
 FEATURE_MAP = {
-    "/atlas/pce1/algorithm_science/delta_time": "delta_time", 
+    "/atlas/pce1/algorithm_science/delta_time": "delta_time",
     "/atlas/housekeeping/laser_energy_lrs/e_tx": "e_tx",
     "/atlas/pce1/background/bg_cnt_50shot_s": "bg_cnt_50shot_s",
     "/atlas/pce1/background/bg_cnt_50shot_w": "bg_cnt_50shot_w",
